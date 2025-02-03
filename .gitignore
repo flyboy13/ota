@@ -5,7 +5,9 @@
 *.swp
 .DS_Store
 .atom/
-.build/
+./build/flutter_assets
+./build/lib
+./build/native_assets
 .buildlog/
 .history
 .svn/

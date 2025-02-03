@@ -25,7 +25,7 @@ class _HomePageState extends State<HomePage> {
 
     _updaterController = DesktopUpdaterController(
       appArchiveUrl: Uri.parse(
-        "https://raw.githubusercontent.com/flyboy13/ota_linux/refs/heads/master/lib/app-archive.json",
+        "https://raw.githubusercontent.com/flyboy13/ota/refs/heads/master/lib/app-archive.json",
       ),
       localization: const DesktopUpdateLocalization(
         updateAvailableText: "Update available",
