@@ -1,0 +1,17 @@
+flutter_app: 
+  command: ota
+  arch: x64
+  parent: /usr/local/lib
+  nonInteractive: false
+
+control:
+  Package: ota
+  Version: 1.0.0
+  Architecture: amd64
+  Priority: optional
+  Depends:
+  Maintainer:
+  Description: ota that does everything!
+  
+#options:
+#  exec_out_dir: debian/packages

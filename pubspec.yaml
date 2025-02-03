@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   package_info_plus: ^8.1.4
   desktop_updater: ^1.0.2
+  flutter_to_debian: ^2.0.2
 
 dev_dependencies:
   flutter_test:

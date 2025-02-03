@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ota
+GenericName=ota
+Comment=A ota that does everything
+Terminal=false
+Type=Application
+Categories=Utility
+Keywords=Flutter;share;files;
