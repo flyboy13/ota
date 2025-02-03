@@ -1,9 +1,9 @@
 {
-    "appName": "Desktop Updater",
+    "appName": "ota",
     "descriptipn": "This is my app descriptipn",
     "items": [
         {
-            "version": "0.1.7",
+            "version": "1.0.0",
             "shortVersion": 8,
             "changes": [
                 {
