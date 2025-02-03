@@ -20,7 +20,7 @@
             ],
             "date": "2025-01-10",
             "mandatory": true,
-            "url": "https://github.com/flyboy13/ota_linux/raw/refs/heads/master/dist/1/ota_linux-1.0.0+1-linux/ota_linux",
+            "url": "https://github.com/flyboy13/ota/raw/refs/heads/master/build/linux/x64/release/debian/ota_1.0.0_amd64.deb",
             "platform": "linux"
         }
     ]
