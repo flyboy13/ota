@@ -1,0 +1,14 @@
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/ota
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/icudtl.dat
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/lib/libdesktop_updater_plugin.so
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/flyboy/rtr/ota/build/linux/x64/release/bundle/lib/libapp.so
